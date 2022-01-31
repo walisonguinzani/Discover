@@ -1,0 +1,23 @@
+p {
+    font-family: "Times New Roman", Times, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    
+    font-variant: small-caps;
+    font-stretch: condensed;
+
+    letter-spacing: .5em;
+    word-spacing: 1em;
+
+    line-height: 1.6;
+    text-transform: uppercase;
+
+    text-decoration: underline dotted red;
+
+    text-align: justify; 
+
+    text-shadow: 1px 1px 8px grey ;
+
+    font: italic normal bold normal 3em/1.5 Helvetica, Arial, sans-serif;
+}
