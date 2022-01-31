@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+div, section {
+    width: 100px;
+    height: 100px;
+    margin: 20% auto;
+
+    border: 10px solid red;
+    border-top: 10px dashed green;
+
+    border-bottom: none;
+
+    box-sizing: border-box;
+
+    outline: black 4px solid;
+}
+

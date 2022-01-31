@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+header {
+    height: 400px;
+    border: 7px dashed red;
+    padding: 16px;;
+    background-color: rgb(55, 100, 50);
+    
+    background-image: url(https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh_400x400.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+}
